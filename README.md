@@ -4,7 +4,7 @@
 -->
 
 
-- 🔭 I’m currently working as Digital Engineer on NTTData Italia 
+- 🔭 I’m currently working as Digital Engineer at NTTData Italia 
 - 🌱 I’m currently learning Flutter, KMM. 
 - 👯 I’m looking to collaborate on Flutter Open Source Projects. 
 - 🤔 I’m looking for help with improving my skills to be Best Flutter Developer.  
