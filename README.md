@@ -16,6 +16,6 @@
 
 💬 Ask me about: GenAI Leadership, Compose Multiplatform, and Android Architecture.
 
-📫 How to reach me: janniran05@gmail.com⚡ 
+📫 How to reach me: janniran05@gmail.com
 
-Fun fact: I bridge the gap between high-level AI strategy and production-ready code.
+⚡ Fun fact: I bridge the gap between high-level AI strategy and production-ready code.
